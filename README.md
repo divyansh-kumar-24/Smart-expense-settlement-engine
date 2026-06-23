@@ -1,4 +1,5 @@
-# Smart-expense-settlement-engine
+Smart Expense Settlement Engine (C++ + SQLite)
+
 
 ## Overview
 
